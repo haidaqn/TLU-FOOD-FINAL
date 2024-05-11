@@ -1,0 +1,14 @@
+.base-pd{
+    padding:0px 40px;
+}
+@media screen and (max-width: 750px) {
+    .base-pd{
+        padding:0px 20px;
+    }
+  } 
+.none{
+    display: none !important;
+}
+.thesv{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
